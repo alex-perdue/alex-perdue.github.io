@@ -1,0 +1,23 @@
+---
+title: "Photography"
+---
+
+As alluded to on the landing page, I actually like photography in my spare time. While I don't do anywhere near professional-level work, and have never sought to, I find that simply having the ability to be behind a camera and capture a scene, of flowers, daily life, or a city view, is honestly really fun. So, to humanize me a little bit, and offer some beautiful things through the heaviness, here are a few pictures I've taken.
+
+Note: All of these photos were taken with various iPhones, specifically an iPhone 13 (2022-present) and iPhone 11 (2019-2022).
+
+![My JetBlue flight to JFK flying over a fun cloud formation, November 2025](images/IMG_3081.jpeg){fig-alt="Airplane flying over cloud formation, November 2025"}
+
+![Binghamton in the fall on Riverside Drive near Memorial Bridge and Confluence Park, October 2025.](images/IMG_3044.jpeg){fig-alt="Binghamton in the fall, October 2025"}
+
+![Looking out over Niagara Falls on a bitterly cold day in March 2025.](images/IMG_2385.jpeg){fig-alt="Niagara Falls, Canada, March 2025"}
+
+![Looking at the USC Smokestack between Woodrow Hall and Preston Residential College, May 2022.](images/IMG_0788.jpeg){fig-alt="USC Smokestack, May 2022"}
+
+![White azaleas on Gibbes Green on the University of South Carolina's campus after an afternoon shower, March 2022.](images/1D8FC28C-BBF0-41E0-8CE1-32DA8271780E.jpeg){fig-alt="White azaleas on Gibbes Green, March 2022"}
+
+![The University of South Carolina's C.S. Lewis Student Center in the snow, January 2022](images/IMG_9073.jpeg){fig-alt="C.S. Lewis Student Center in the snow, January 2022"}
+
+![The Roanoke Star, taken on a summer night in 2021.](images/IMG_7830.jpeg){fig-alt="The Roanoke Star, 2021"}
+
+![Some pink azaleas, taken in spring 2021 near Currell College on the University of South Carolina's campus.](images/IMG_7310.jpeg){fig-alt="Pink azaleas, 2021, Currell College"}
