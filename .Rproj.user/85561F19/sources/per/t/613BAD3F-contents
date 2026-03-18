@@ -9,8 +9,8 @@ website:
   title: "Alex Perdue"
   navbar:
     left:
-      - href: welcome.qmd
-        text: Welcome
+      - href: index.qmd
+        text: Home
       - href: research.qmd
         text: Research
       - href: Teaching.qmd

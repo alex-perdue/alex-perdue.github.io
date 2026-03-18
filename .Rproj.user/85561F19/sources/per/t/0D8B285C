@@ -1,7 +1,7 @@
 {
     "id": "0D8B285C",
-    "path": "~/Downloads/PSAs/Website/welcome.qmd",
-    "project_path": "welcome.qmd",
+    "path": "~/Downloads/PSAs/Website/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
     "hash": "1268235088",
     "contents": "",
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "938",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "14,3",
-        "scrollLine": "9"
+        "cursorPosition": "1,8",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773791881,
+    "lastKnownWriteTime": 1773794173,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773791881883,
+    "last_content_update": 1773794173760,
     "read_only": false,
     "read_only_alternatives": []
 }
