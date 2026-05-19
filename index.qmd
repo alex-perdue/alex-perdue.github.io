@@ -8,8 +8,8 @@ Welcome! I am a PhD Candidate (ABD) in Political Science at Binghamton Universit
 
 For more information about my [research](research.qmd) and my [teaching](Teaching.qmd) to date, please feel free to explore the other pages on this website or my [Curriculum Vitae](https://www.dropbox.com/scl/fi/ol9t73agrfx8nnn9hlps5/CV.pdf?rlkey=76cn494w21yrmlpa9kyaiayr3&st=cjdwg2dk&dl=0). If you're looking for a quick pick-me-up after that, consider exploring my [photography](photography.qmd)!
 
-To contact me about my work, commisserate about the absolute state of South Carolina Gamecocks athletics, or chat about jazz or life with autism spectrum disorder in academia, please feel free to drop me a line at any of the places below! 
+To contact me about my work, commisserate about the absolute state of South Carolina Gamecocks athletics, or chat about jazz or life with autism spectrum disorder in academia, please feel free to drop me a line at any of the places below!
 
-```{=html} 
+```{=html}
 <a href="mailto:aperdue2@binghamton.edu"><i class="fa-solid fa-envelope fa-2x"></i></a> <a href="https://www.linkedin.com/in/adperdue/"<i class="fa-brands fa-linkedin fa-2x"></i></a> <a href="https://x.com/alexperduetoo/"<i class="fa-brands fa-twitter fa-2x"></i></a>
 ```
