@@ -6,6 +6,10 @@ As alluded to on the landing page, I actually like photography in my spare time.
 
 Note: All of these photos were taken with various iPhones, specifically an iPhone 13 (2022-present) and iPhone 11 (2019-2022).
 
+![In the canyon of steel on Florida Avenue in DC at sunset, June 4, 2026.](images/IMG_3417.jpeg){fig-alt="A sunset image in Washington, DC. Taken down a metropolitan street, the building frames the sunset. The buildings appear dark grey. The sun appears orange."}
+
+![The steeple of Hicks Memorial Chapel on the Pittsburgh Theological Seminary campus, May 29, 2026.](images/IMG_3387.jpeg){fig-alt="Hicks Memorial Chapel on the Pittsburgh Theological Seminary campus in the evening. The chapel appears firebrick red and on the left and right there are big, green, leafy trees."}
+
 ![My JetBlue flight to JFK flying over a fun cloud formation, November 2025.](images/IMG_3081.jpeg){fig-alt="Airplane flying over cloud formation, November 2025"}
 
 ![Binghamton in the fall on Riverside Drive near Memorial Bridge and Confluence Park, October 2025.](images/IMG_3044.jpeg){fig-alt="Binghamton in the fall, October 2025"}
