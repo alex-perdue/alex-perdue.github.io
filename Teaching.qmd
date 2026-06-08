@@ -21,6 +21,9 @@ Below I discuss the courses I'm taught and the courses I'm scheduled to teach th
 
 ```{=html}
 <h3>Spring 2026: History, Memory, and Politics</h3>
+<span style='font-size: 80%;'></span><a href='https://www.dropbox.com/scl/fi/o5q2sf7lmlkxhn7voqd4r/S2026-Evaluations.pdf?rlkey=rmraxs5828d5lxbtgvs1yqk1q&st=hmnk1r9e&dl=0'>Spring 2026 Evaluations</a>
+</a>
+
 <table>
   <tr>
     <td style='width: 30%; padding-right: 20px;'>
